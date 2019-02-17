@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="nav_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/side_study"
+            android:icon="@drawable/ic_study"
+            android:title="@string/study_materials" />
+        <item
+            android:id="@+id/side_law"
+            android:icon="@drawable/ic_law"
+            android:title="@string/law" />
+        <item
+            android:id="@+id/side_legal_info"
+            android:icon="@drawable/ic_legal_info"
+            android:title="@string/legal_info" />
+
+    </group>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share" />
+            <item
+                android:id="@+id/side_help"
+                android:icon="@drawable/ic_menu_help"
+                android:title="@string/help" />
+        </menu>
+    </item>
+
+
+</menu>

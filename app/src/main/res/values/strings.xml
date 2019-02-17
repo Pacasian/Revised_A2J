@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">A2J</string>
+    <string name="login_button">LOGIN</string>
+    <string name="signup_button">NEW TO APP? CLICK HERE!</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="first_name">FIRST NAME</string>
+    <string name="last_name">LAST NAME</string>
+    <string name="welcome">Get Started!</string>
+    <string name="intro">Get</string>
+    <string name="app_full_name">Access To Justice with</string>
+    <string name="age">AGE</string>
+    <string name="enter">Enter your details below!</string>
+    <string name="cardno">ADHAR NO.</string>
+    <string name="nationality">NATIONALITY</string>
+    <string name="state">STATE</string>
+    <string name="submit_btn">SUBMIT</string>
+    <string name="pub">PUBLIC</string>
+    <string name="lawyer">LAWYER</string>
+    <string name="wry">PLEASE TELL US WHAT YOU ARE-</string>
+    <string name="news">NEWS</string>
+    <string name="document">DOCUMENT</string>
+    <string name="quora">Legal info</string>
+    <string name="chat">DISCUSS</string>
+    <string name="study_materials">Study materials</string>
+    <string name="law">Law demystify</string>
+    <string name="legal_info">Q/A</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share app</string>
+    <string name="help">Contact for help</string>
+    <string name="nav_header_title">ACCESS TO JUSTICE</string>
+    <string name="user_details">USER DETAILS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="profile">profile</string>
+    <string name="confirm_password">CONFIRM PASSWORD</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">Password too short or does not match</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    //replace string with item
+    <string name="sub_heading2">Googling \'Mera Aadhaar Meri Pehchan\' reveals Aadhaar details</string>
+    <string name="content2">A Google search for \'Mera Aadhaar Meri Pehchan filetype:pdf\' reveals Aadhaar details of several people, including their names, photographs and date of birth. The websites that publicly uploaded the Aadhaar details belong to government bodies like Indian National Centre for Ocean Information Services, All India Football Federation and payment gateway service Starcards India.</string>
+
+    //inshot
+
+    <string-array name="subHeading">
+        <item name="sub_heading1">What is Neuroendocrine Tumour that has affected Irrfan Khan?</item>
+
+        <item name="sub_heading3">₹1.86 tn wiped off Indian stocks as Sensex falls 510 points </item>
+    </string-array>
+
+    <string-array name="content">
+        <item name="content1">Bollywood actor Irrfan Khan on Friday revealed that he has Neuroendocrine Tumour, which can cause abnormal growth in tissues made of hormone-producing nerve cells. The rare condition mostly affects hormones of organs like intestines, lungs, stomach, liver, and not necessarily the brain. The tumour can be cancerous or non-cancerous, and can be treated using surgery, radiation, and chemotherapy.</item>
+
+        <item name="content3">Around ₹1.86 trillion was wiped out from market capitalisation of all listed companies after benchmark index BSE Sensex closed 509.54 points down at 33,176 on Friday. This came amid concerns that a global trade war could hit exports over US President Donald Trump\'s decision to hike import tariffs on steel and aluminium. Nifty fell 165 points to close at 10,195.</item>
+    </string-array>
+
+    <string-array name="readMore">
+        <item name="read_more1">Irrfan Khan to go out of India for treatment</item>
+        <item name="read_more2">Biometric Details of individual not accessible</item>
+        <item name="read_more3">India\'s trade deficit narrows to $12 bn in Feb</item>
+    </string-array>
+
+    <string name="moreAt">more at Reuters/Yesterday</string>
+    <string name="shortBY">short By Deepam Goel</string>
+    <string name="tapHere">Tap here to read more</string>
+    <string name="my_feed">My Feed</string>
+    <string name="like">Like</string>
+    <string name="like_count" />
+    <string name="share1">Share</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="image">Image</string>
+    <string name="read_more_image">Read More</string>
+    <string name="menu">Menu</string>
+    <string name="refresh">refresh</string>
+
+</resources>

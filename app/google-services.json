@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "717817379406",
+    "firebase_url": "https://a2j-database.firebaseio.com",
+    "project_id": "a2j-database",
+    "storage_bucket": "a2j-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717817379406:android:ac2b6f4e2422ec08",
+        "android_client_info": {
+          "package_name": "com.example.ajay.a2j"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717817379406-scidds5rqjbh14h6vrh42qbf52hdvc8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBTXyvWTu1eS3h03zElyLKWbBe7Ktj35Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
